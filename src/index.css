@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&family=Roboto+Condensed&display=swap');
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Poppins", serif;
+}
+
+.app{
+  min-height: 100vh;
+  display: grid;
+  background-color: #e2d4ff;
+}
