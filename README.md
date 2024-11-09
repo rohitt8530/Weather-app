@@ -21,7 +21,7 @@ React with Vite for a fast and responsive user interface
 Installation and Setup
 
 Clone the repository:
-git clone  https://codesandbox.io/p/devbox/github/rohitt8530/Weather-app/tree/master
+git clone (https://github.com/rohitt8530/Weather-app/tree/master)
 hosting in https://g6nzyj-5173.csb.app/
 
 Navigate to the project folder:
